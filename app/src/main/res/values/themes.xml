@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.PaymentTracker" parent="Theme.Material3.DayNight.NoActionBar" />
+    <style name="Theme.PaymentTracker" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#1E6FE0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondaryContainer">#DCE8FB</item>
+        <item name="colorOnSecondaryContainer">#12305F</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
 </resources>

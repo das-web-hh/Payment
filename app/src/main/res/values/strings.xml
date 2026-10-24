@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Мои платежи</string>
-    <string name="total">Общая сумма</string>
-    <string name="remaining">Оставшаяся сумма (пусто = вся сумма)</string>
-    <string name="monthly">Платёж в месяц</string>
-    <string name="pay_day">День оплаты (1–31)</string>
-    <string name="calculate">Рассчитать и сохранить</string>
-    <string name="paid_btn">Оплатил этот месяц</string>
-    <string name="reset">Сбросить всё</string>
-    <string name="result_hint">Заполните поля и нажмите «Рассчитать»</string>
+    <string name="app_name">Мой дом</string>
 </resources>
